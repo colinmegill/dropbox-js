@@ -74,3 +74,7 @@ easier to use for JavaScript developers that don't speak CoffeeScript.
 ## Can I complain to get dropbox.js to switch away from CoffeeScript?
 
 **No.**
+
+## Since so many people have complained that we've added a FAQ, could we at least add a minified single file .js version so you don't have to change your builds?
+
+**Yes!**
